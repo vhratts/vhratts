@@ -7,8 +7,7 @@
 
 ## Sobre mim 😎
 Desenvolvedor **FullStack** desde 2013, com especialidade em **PHP/Laravel**.  
-Formado pelo Instituto Federal do Ceará, sempre buscando inovar e encontrar soluções criativas para problemas complexos.  
-Se autodenomina um "Pseudo Arquiteto da Matrix 😅", pois adora mergulhar nas profundezas dos códigos e estruturas de sistemas.
+Formado pelo Instituto Federal do Ceará, sempre buscando inovar e encontrar soluções criativas para problemas complexos.
 
 ## Habilidades 🚀
 - **Linguagens e Frameworks**:  
