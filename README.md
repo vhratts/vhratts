@@ -1,7 +1,7 @@
 # Olá! Eu sou Victor Ratts 👋
 
 - **Nome**: Victor Hugo Ratts  
-- **Email**: [vhugoratts@gmail.com](mailto:vhugoratts@gmail.com)  
+- **Email**: [victor@vratts.com](mailto:victor@vratts.com)  
 - **Cidade**: 🌆 Fortaleza, CE - Brasil  
 - **GitHub**: [vhratts](https://github.com/vhratts)  
 
